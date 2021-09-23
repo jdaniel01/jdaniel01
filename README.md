@@ -1,6 +1,5 @@
 ### Hi 👋, I'm James. Welcome to my GitHub.
 #### I'm a full-stack web developer with a soft spot for JavaScript and React.
-![I'm a full-stack web developer with a soft spot for JavaScript and React.]
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 As a software engineer I enjoy programming new features and applications that allow me to either solidify my understanding of known technologies or explore ones that I'm unfamiliar with. New projects are always exciting, but to really get the blood pumping I do yoga, ride BMX, hike and generally spend time outdoors with my family.
