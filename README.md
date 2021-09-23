@@ -1,4 +1,4 @@
-### Hi there 👋, I'm James, welcome.
+### Hi 👋, I'm James. Welcome to my GitHub.
 #### I'm a full-stack web developer with a soft spot for JavaScript and React.
 ![I'm a full-stack web developer with a soft spot for JavaScript and React.]
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
